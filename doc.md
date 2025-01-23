@@ -138,7 +138,7 @@
 * __timer1__ ```Number```
 * __timer2__ ```Number```
 * __tooltipLength__ ```Number```
-* __tooltipR__ ```Number``` (default Value: `0.04`)
+* __tooltipR__ ```Number``` (default Value: `null`)
 
   7
 
