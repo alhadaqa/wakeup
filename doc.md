@@ -3,19 +3,19 @@
 * __aspectRatio__ ```Number```
 * __bigCircleMaxRadius__ ```Number```
 * __bigCircleMinRadius__ ```Number```
-* __bigCirclesA__ ```Number``` (default Value: `0.5`)
+* __bigCirclesA__ ```Number``` (default Value: `0.8`)
 
   6
 
-* __bigCirclesB__ ```Number``` (default Value: `0.5`)
+* __bigCirclesB__ ```Number``` (default Value: `1`)
 
   5
 
-* __bigCirclesG__ ```Number``` (default Value: `0.5`)
+* __bigCirclesG__ ```Number``` (default Value: `1`)
 
   4
 
-* __bigCirclesInnerRadius__ ```Number``` (default Value: `0.95`)
+* __bigCirclesInnerRadius__ ```Number``` (default Value: `0`)
 
   2
 
@@ -28,12 +28,12 @@
 * __bigCirclesPositions_v4__ ```Array```
 * __bigCirclesPositions_v5__ ```Array```
 * __bigCirclesPositions_v6__ ```Array```
-* __bigCirclesR__ ```Number``` (default Value: `0.5`)
+* __bigCirclesR__ ```Number``` (default Value: `1`)
 
   3
 
 * __bigCirclesRandomPositions__ ```Array```
-* __bigCirclesScaleMultiply__ ```Number``` (default Value: `1`)
+* __bigCirclesScaleMultiply__ ```Number``` (default Value: `0.3`)
 
   1
 
@@ -76,7 +76,7 @@
 
   5
 
-* __redLinesHeight__ ```Number``` (default Value: `0`)
+* __redLinesHeight__ ```Number``` (default Value: `0.4`)
 
   2
 
@@ -84,7 +84,7 @@
 
   3
 
-* __redLinesPosY__ ```Number``` (default Value: `0`)
+* __redLinesPosY__ ```Number``` (default Value: `-0.06`)
 
   4
 
@@ -138,7 +138,7 @@
 * __timer1__ ```Number```
 * __timer2__ ```Number```
 * __tooltipLength__ ```Number```
-* __tooltipR__ ```Number``` (default Value: `0.04`)
+* __tooltipR__ ```Number``` (default Value: `0.02`)
 
   7
 
