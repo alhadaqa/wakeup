@@ -72,11 +72,11 @@
 * __NumbersOfChapters__ ```Number```
 * __Random__ ```Number```
 * __recast__ ```String```
-* __redCirclesAlpha__ ```Number``` (default Value: `0.02`)
+* __redCirclesAlpha__ ```Number``` (default Value: `0`)
 
   5
 
-* __redLinesHeight__ ```Number``` (default Value: `0.07`)
+* __redLinesHeight__ ```Number``` (default Value: `0.4`)
 
   2
 
@@ -84,7 +84,7 @@
 
   3
 
-* __redLinesPosY__ ```Number``` (default Value: `-0.03`)
+* __redLinesPosY__ ```Number``` (default Value: `-0.06`)
 
   4
 
